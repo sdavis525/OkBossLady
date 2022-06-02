@@ -48,7 +48,7 @@ npm run test
 👤 **Sophia Davis**
 
 * Github: [@sdavis525](https://github.com/sdavis525)
-* LinkedIn: [@ sophiadavis525](https://linkedin.com/in/ sophiadavis525)
+* LinkedIn: [@ sophiadavis525](https://linkedin.com/in/sophiadavis525)
 
 ## Show your support
 
